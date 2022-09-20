@@ -1,9 +1,8 @@
-# Operations Analytics
+# Call Centre Analytics
 
-## Overview
 This project involves helping a telecoms company better understand how its call center operations are performing on a daily basis. 
 
-The goal is to create an easy-to-use dashboard for them to keep track of all their required KPIs. In addition, provide any additional insights on emerging trends on the business based on the given data.
+The goal is to create an easy-to-use dashboard to keep track of all their required KPIs. In addition, provide any further insights on emerging trends on the business based on the given data.
 
 ## Data Model
 ![Data Model](https://raw.githubusercontent.com/adamyangyang/call-center-trends-analysis/main/dashboard/call-center-data-model.gif)
